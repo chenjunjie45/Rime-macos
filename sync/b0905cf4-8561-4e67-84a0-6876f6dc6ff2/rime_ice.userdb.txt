@@ -1,0 +1,54 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.13.0
+#@/tick	67
+#@/user_id	b0905cf4-8561-4e67-84a0-6876f6dc6ff2
+ba 	把	c=1 d=1 t=31
+bang wo 	帮我	c=1 d=1 t=52
+bu ke 	不可	c=0 d=0.1 t=39
+bu ke xian shi 	不可显示	c=1 d=1 t=40
+bu zhi chi 	不支持	c=1 d=1 t=44
+cun zai 	存在	c=1 d=1 t=61
+de 	的	c=4 d=3.73564 t=63
+dou 	都	c=2 d=1.86936 t=65
+fang kuang 	方框	c=1 d=1 t=34
+hou mian 	后面	c=1 d=1 t=56
+hu 	乎	c=1 d=1 t=21
+hui 	惠	c=1 d=1.33203 t=21
+hui rong 	惠瀜	c=4 d=3.42779 t=67
+hui rong 	毁容	c=0 d=0.1 t=19
+hui rong ke ji 	惠瀜科技	c=1 d=1 t=22
+hui rong ke ji 	惠融科技	c=14 d=13.0922 t=26
+hui rong ke ji you xian gong si 	惠融科技有限公司	c=1 d=1 t=17
+hui rong wang luo 	毁容网络	c=1 d=1 t=20
+jiao ben 	脚本	c=1 d=1 t=50
+ke ji 	科技	c=3 d=2.9783 t=21
+le 	了	c=1 d=1 t=54
+mei 	没	c=0 d=0.1 t=58
+mei qu diao 	没去掉	c=1 d=1 t=59
+pi liang 	批量	c=1 d=1 t=38
+pin yin 	拼音	c=1 d=1 t=58
+qu diao 	去掉	c=0 d=0.194176 t=58
+rong 	瀜	c=1 d=1.09608 t=29
+rong ke ji 	融科技	c=0 d=0.29605 t=7
+ru he 	如何	c=1 d=1 t=30
+shan chu 	删除	c=1 d=1 t=66
+shan diao 	删掉	c=1 d=1 t=39
+sheng pi zi 	生僻字	c=3 d=2.898 t=62
+shi 	是	c=2 d=1.9802 t=46
+shu ru fa 	输入法	c=1 d=1 t=1
+wang luo 	网络	c=1 d=1.1 t=19
+wei 	为	c=1 d=1 t=33
+wei xin shu ru fa 	微信输入法	c=1 d=1 t=28
+wo xiang yao 	我想要	c=1 d=1 t=60
+xian shi 	显示	c=1 d=1.06561 t=39
+ying gai 	应该	c=1 d=1 t=45
+you wen ti 	有问题	c=1 d=1 t=51
+you xian gong si 	有限公司	c=0 d=0.1 t=16
+zhe ge 	这个	c=1 d=1 t=49
+zheng hang 	整行	c=1 d=1 t=64
+zhi 	只	c=0 d=0.1 t=46
+zhi qu diao 	只去掉	c=2 d=1.97045 t=53
+zi 	字	c=1 d=1 t=36
+zi ti 	字体	c=1 d=1 t=43
