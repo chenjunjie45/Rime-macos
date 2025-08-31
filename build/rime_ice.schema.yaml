@@ -4,7 +4,7 @@ __build_info:
     default: 1756402166
     default.custom: 0
     rime_ice.custom: 0
-    rime_ice.schema: 1756434385
+    rime_ice.schema: 1756642697
     symbols_v: 1756225300
     symbols_v.custom: 0
 cn_en:
@@ -969,6 +969,7 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
 switches:
   - name: ascii_mode
+    reset: 1
     states: ["中", "Ａ"]
   - name: ascii_punct
     states: ["¥", "$"]

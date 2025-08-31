@@ -1,13 +1,15 @@
 __build_info:
   rime_version: 1.13.0
   timestamps:
-    squirrel: 1756401885
+    squirrel: 1756645129
     squirrel.custom: 0
 app_options:
   co.zeit.hyper:
     ascii_mode: true
   com.alfredapp.Alfred:
     ascii_mode: true
+  com.alibaba.DingTalkMac:
+    ascii_mode: false
   com.apple.Spotlight:
     ascii_mode: true
   com.apple.Terminal:
@@ -22,7 +24,6 @@ app_options:
   com.github.atom:
     ascii_mode: true
   com.google.Chrome:
-    ascii_mode: true
     no_inline: true
   com.googlecode.iterm2:
     ascii_mode: true
@@ -37,6 +38,10 @@ app_options:
     ascii_mode: true
   com.sublimetext.2:
     ascii_mode: true
+  com.tencent.qq:
+    ascii_mode: false
+  com.tencent.xinWeChat:
+    ascii_mode: false
   org.gnu.Aquamacs:
     ascii_mode: true
   org.gnu.Emacs:
@@ -49,6 +54,7 @@ app_options:
     no_inline: true
     vim_mode: true
   ru.keepcoder.Telegram:
+    ascii_mode: false
     inline: true
 chord_duration: 0.1
 config_version: "2024-11-04"

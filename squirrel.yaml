@@ -466,12 +466,18 @@ app_options:
   com.google.Chrome:
     # 規避 https://github.com/rime/squirrel/issues/435
     no_inline: true
-    ascii_mode: true
   ru.keepcoder.Telegram:
     # 規避 https://github.com/rime/squirrel/issues/475
     inline: true
+    ascii_mode: false
   com.raycast.macos:
     ascii_mode: true
   org.jkiss.dbeaver.core.product:
     no_inline: true
     ascii_mode: true
+  com.alibaba.DingTalkMac:
+    ascii_mode: false
+  com.tencent.xinWeChat:
+    ascii_mode: false
+  com.tencent.qq:
+    ascii_mode: false
